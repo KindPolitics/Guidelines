@@ -1,6 +1,8 @@
 # Guidelines
 Some guidelines to follow when participating in [Kind Politics](https://t.me/KindPolitics) discussions.
 
+To propose changes to these guidelines, simply [edit this file](https://github.com/KindPolitics/Guidelines/edit/accepted/README.md) and then create a new [pull request](https://docs.github.com/articles/using-pull-requests) into the `accepted` branch. Don't forget to tell the community about your changes!
+
 
 
 ## 0 - This is a community-run group
