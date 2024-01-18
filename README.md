@@ -35,6 +35,6 @@ If a discussion was too rapid to be able to stop a panic/anxiety attack, trauma 
 
 
 ## 2 - Keep it civil
-This place is for discussion and debate, not anger, nor vitreal. Anyone who creates a hostile atmosphere will be muted.
+This place is for discussion and debate, not anger, nor vitreal. Anyone who creates a hostile atmosphere will be muted. No grudges nor interpersonal conflicts here; leave all that at the door.
 
 Trolls, bots, spam accounts, and other such things will be banned. If you think you've been banned for such a reason, contact any member of the group to resolve the mistake.
