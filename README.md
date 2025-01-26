@@ -1,6 +1,6 @@
 # PROPOSAL
 
-We, the Northstar System, want better policies for Kind Politics. [The first set of guidelines](./Guidelines – OLD, NO LONGER IN EFFECT.md) turned out to be a failed experiment, so We’re going back to the drawing board and proposing a new set of policies designed to address issues found in the past 4 years.
+We, the Northstar System, want better policies for Kind Politics. [The first set of guidelines](./Guidelines%20–%20OLD,%20NO%20LONGER%20IN%20EFFECT.md) turned out to be a failed experiment, so We’re going back to the drawing board and proposing a new set of policies designed to address issues found in the past 4 years.
 
 The greatest shortcoming of the original guidelines is that they did not allow administrators to ban folks for many reasons that should rightfully result in a ban. In fact, they only allowed bans for bullying, spamming, or scamming. 
 
