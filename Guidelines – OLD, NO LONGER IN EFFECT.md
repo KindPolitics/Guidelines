@@ -1,3 +1,8 @@
+# These guidelines are no longer in effect. They remain here for reference only.
+
+Instead, see [the current policies](./README.md)
+
+
 # Guidelines
 Some guidelines to follow when participating in [Kind Politics](https://t.me/KindPolitics) discussions.
 
