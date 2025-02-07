@@ -38,7 +38,7 @@ If any community member wishes to become an administrator of Kind Politics, they
 
 # II. No one is lesser by birth
 
-Kind Politics does not allow racism, sexism, transphobia, homophobia, ableism, saneism, misanthropy, or any other such by-birth hate. Expressing such views will result in administrative action.
+Kind Politics does not allow racism, sexism, transphobia, homophobia, ableism, saneism, misanthropy, tribalism, or any other such by-birth hate. Expressing such views will result in administrative action.
 
 
 
