@@ -26,19 +26,40 @@ By the very nature of Kind Politics, uncomfortable topics will be discussed. Thi
 
 If you aren’t willing/able to participate in a discussion because the topic is too uncomfortable, or because you’re having a strong and difficult emotional reaction, you’re encouraged to step away and take care of your mental health.
 
+Of course, discussions which are against the policies of Kind Politics are still not allowed, regardless of comfort level.
+
 
 
 ## (b) Community-run
 
 The point of Kind Politics is to be a community, and as such, policy changes can and should be made in collaboration with the community, ideally in the open and with time for everyone to weigh in.
 
-If any community member wishes to become an administrator of Kind Politics, they may discuss that with the existing administrators or petition the community to vote for them. Only votes cast by Kind Politics community members will be counted, and a simple majority (at least 50% + 1 of votes in favor) wins that member their administrator status.
+### (i) Becoming an admin by discussion with existing admins
+
+If any community member wishes to become an administrator of Kind Politics, they may discuss that with the existing administrators. The existing administrators may choose amongst themselves whether to elevate that member to adminhood.
+
+### (ii) Becoming an admin by community vote
+
+If any community member wishes to become an administrator of Kind Politics, they may petition the community to vote for them. That vote must follow these rules:
+
+1. The candidate must first discuss their desire to become an admin with the existing administrators. If those administrators deny their request to become an admin, then they may proceed with a vote.
+2. The candidate must create a poll. That poll must only contain three options: 
+	1. A vote in favor of the candidate becoming an admin,
+	2. a vote against the candidate becoming an admin,
+	3. and a null option so people with no opinion may see the current results.
+	- The poll must not contain anything else, and the title must be simple an non-deceptive.
+3. Only votes cast by Kind Politics community members will be counted. To ensure this, the poll that the member runs **must not** be anonymous, and must be a built-in native poll (e.g. a Telegram poll for Kind Politics on Telegram).
+4. To win the vote, a grand majority must be won (at least 75% + 1 of votes in favor).
+5. Voting must end 48 hours after it starts. Reasonable leeway will be allowed, but the candidate.
+6. After the grand majority is won, that candidate must return to the existing admins with the results. The existing admins will discuss amongst themselves whether the vote justifies the candidate becoming an admin.
+	- If the existing admins agree that the candidate should gain adminhood, then the candidate will be made an administrator of Kind Politics
+	- If the admins still deny the candidate adminhood, the candidate must accept that result. The candidate may choose to restart this process again after waiting 1 year from the denial, but no less.
 
 
 
 # II. No one is lesser by birth
 
-Kind Politics does not allow racism, sexism, transphobia, homophobia, ableism, saneism, misanthropy, tribalism, or any other such by-birth hate. Expressing such views will result in administrative action.
+Kind Politics does not allow racism, sexism, transphobia, homophobia, ableism, saneism, misanthropy, tribalism, or **any other** such by-birth hate. Expressing such views will result in administrative action.
 
 
 
@@ -54,7 +75,7 @@ If you’ve proven you’re unwilling to have your positions challenged, adminis
 
 # IV. Rhetoric
 
-Because rhetoric most-often relies on oversimplifying complex issues and promising easy solutions which can never work, this is a place for nuanced discussion.
+This is a place for nuanced discussion, because rhetoric most-often relies on oversimplifying complex issues and promising easy solutions which can never work.
 
 Breaking down topics and critically evaluating them is encouraged. 
 
@@ -65,7 +86,12 @@ Simplifying topics and ignoring nuanced takes is strongly discouraged, and may r
 
 Virtue signaling isn’t allowed. It doesn’t matter if that’s right-wing, left-wing, or wildly out there, virtue signaling discourages discussion and encourages surface-level thought, when the point of Kind Politics is to get at & discuss the root of issues.
 
-This document defines virtue signaling as the act of expressing opinions or taking actions primarily to demonstrate one’s moral superiority or alignment with a particular group, in place of engaging in genuine dialog or critical discussion.
+This document defines virtue signaling as:
+
+> the act of expressing opinions or taking actions primarily to demonstrate one’s moral superiority or alignment with a particular group, instead of engaging in genuine dialog or critical discussion.
+
+Because virtue signaling can be very ingrained and easy to fall into, admins will issue reasonable warnings to stop before taking more severe administrative actions.
+However, explicit refusal to stop virtue signaling will result in immediate administrative action, possibly without warnings.
 
 
 
@@ -79,6 +105,8 @@ All evidence brought to Kind Politics must be freely available and verifiable.
 
 All challenges to evidence must bring sufficient counter-evidence.
 
+Refusal to bring evidence to back up claims, andor repeated dropping of claims without evidence (baseless claims), will result in administrative action.
+
 
 
 # VI. Administrative action
@@ -86,17 +114,20 @@ All challenges to evidence must bring sufficient counter-evidence.
 If anyone goes against these policies, they will be subject to administrative action.
 
 
-## (a) Mutes
-
-If someone is technically not breaking the policies, but clearly going against their spirit, an administrator my mute them for a period of time the admins deem appropriate. Admins may discuss taking further action as well.
-
-## (b) Warnings
+## (a) Warnings
 
 If someone has violated a policy here (in letter or in spirit), or come close to doing so, but clearly did not mean to (or hasn’t shown a pattern of such violations), an administrator may issue them a warning. Keep in mind that intentional andor repeated violation of these policies will result in a ban, possibly without warning.
 
 Two warnings may be issued to a member without further administrative action being taken. Once the third warning is issued, further action must be taken, usually a mute or ban.
 
-A warning expires after 90 days.
+**A warning expires after 90 days.** This might change if needed.
+
+
+## (b) Mutes
+
+If someone is technically not breaking the policies, but clearly going against their spirit, an administrator my mute them for a period of time the admins deem appropriate. Admins may discuss taking further action as well.
+
+Mutes can be issued for bad behavior, but also to force an otherwise-welcome community member to disengage for their own mental health.
 
 
 ## (c) Bans
@@ -112,14 +143,29 @@ Any administrator may issue the ban.
 
 If you have been removed from Kind Politics and want to be added, you may file an appeal with the community by sending that appeal to an admin. If that admin chooses, they may forward that appeal to the Kind Politics community, who may collectively decide whether you should be allowed back.
 
-Administrators are not required to interact with you, and are allowed to block you at their personal discretion.
+Administrators are not required to interact with you, and are allowed to block you at their personal discretion. If you've been banned and all administrators have blocked you, you are not allowed back into Kind Politics.
+
+
+## (e) Evasion
+
+Attempts to evade, circumvent, or otherwise secretly avoid administrative action, will result in a fedban.
 
 
 
 # VII. Alignment with the Constellation of Kyndness
 
-Kind Politics exists as a chat within [the Constellation of Kyndness](https://github.com/Constellation-of-Kyndness). This is a federation of communities whose purpose is to protect each other by eliminating harmfully-disingenuous accounts.
+Kind Politics exists as a chat within [the Constellation of Kyndness](https://github.com/Constellation-of-Kyndness). This is a federation of communities whose purpose is to protect each other by eliminating harmful members & accounts.
 
 If an account is banned in the Constellation of Kyndness then that account is banned in Kind Politics. Similarly, if someone in Kind Politics commits an offense that’s bannable in the Constellation of Kyndness, that person will be issued a federal ban across all Constellation of Kyndness chats.
 
 The Constellation of Kyndness’s bannable offenses are listed at [https://github.com/Constellation-of-Kyndness/Offenses](https://github.com/Constellation-of-Kyndness/Offenses)
+
+The Constellation of Kyndness’s policies are listed at [https://github.com/Constellation-of-Kyndness/Policies](https://github.com/Constellation-of-Kyndness/Policies)
+
+
+
+# VIII. Rule conflicts
+
+If any of these rules come into conflict, the one which applies strictest administrative action wins.
+
+Admins may also choose how to handle such situations on a case-by-case basis.
