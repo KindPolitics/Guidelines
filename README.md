@@ -1,22 +1,26 @@
-# PROPOSAL
+# Policies
 
-We, the Northstar System, want better policies for Kind Politics. [The first set of guidelines](./Guidelines%20–%20OLD,%20NO%20LONGER%20IN%20EFFECT.md) turned out to be a failed experiment, so We’re going back to the drawing board and proposing a new set of policies designed to address issues found in the past 4 years.
+> Revision 2025-03-16
+
+[The first set of guidelines](./Guidelines%20–%20OLD,%20NO%20LONGER%20IN%20EFFECT.md) turned out to be a failed experiment, so We’re going back to the drawing board and proposing a new set of policies designed to address issues found in the past 4 years.
 
 The greatest shortcoming of the original guidelines is that they did not allow administrators to ban folks for many reasons that should rightfully result in a ban. In fact, they only allowed bans for bullying, spamming, or scamming. 
 
-This policy proposal aim to address that shortcoming by allowing bans for many more reasons.
+This new set of policies aims to address that shortcoming by allowing bans for many more reasons. To be explicit: **These policies aim to guarantee that harmful views like fascism aren't advocated for, that their rhetoric isn't spread, and that proponents of them aren't allowed.**
 
-To propose changes to these policies, simply [edit this file](https://github.com/KindPolitics/Guidelines/edit/accepted/README.md) and then create a new [pull request](https://docs.github.com/articles/using-pull-requests) into the `update/2025-policy-reform` branch. Don't forget to tell the community about your proposal!
+If you'd like to propose changes to these policies, simply [edit this file](https://github.com/KindPolitics/Policies/edit/accepted/README.md) on a new branch (named like `proposal/My-radical-changes`) and then create a new [pull request](https://docs.github.com/articles/using-pull-requests) targeting the `accepted` branch. Don't forget to tell the community about your proposal!
 
 
 
 # I. The core of Kind Politics
 
-Kind Politics exists as a place where people can go to discuss their genuinely-held beliefs in good faith, even if they’ve been banned in other chats because of those beliefs.
+Kind Politics exists as a place where people can go to discuss their beliefs in good faith, even if they’ve been banned in other chats because of those beliefs. For example, if you've been banned from chats only for being pro-AI, you will still be allowed to discuss that here.
 
 Kind Politics aims to cut through rhetoric and get at the root of issues.
 
-The policies laid out here attempt to enable that without allowing harmful views to propagate.
+The policies laid out here attempt to enable that **without allowing harmful views like fascism to propagate.**
+
+Harmful views include (but are not limited to) those advocating mass harm, dehumanization, andor removal of fundamental rights from any person or group. Administrators have final discretion in determining what constitutes "harmful."
 
 
 
@@ -50,11 +54,45 @@ If any community member wishes to become an administrator of Kind Politics, they
 	- The poll must not contain anything else, and the title must be simple an non-deceptive.
 3. Only votes cast by Kind Politics community members will be counted. To ensure this, the poll that the member runs **must not** be anonymous, and must be a built-in native poll (e.g. a Telegram poll for Kind Politics on Telegram).
 4. To win the vote, a grand majority must be won (at least 75% + 1 of votes in favor).
-5. Voting must end 48 hours after it starts. Reasonable leeway will be allowed, but the candidate.
+5. Voting must end 48 hours after it starts. Reasonable leeway will be allowed, but the candidate must do their best to close the poll near this deadline.
 6. After the grand majority is won, that candidate must return to the existing admins with the results. The existing admins will discuss amongst themselves whether the vote justifies the candidate becoming an admin.
 	- If the existing admins agree that the candidate should gain adminhood, then the candidate will be made an administrator of Kind Politics
 	- If the admins still deny the candidate adminhood, the candidate must accept that result. The candidate may choose to restart this process again after waiting 1 year from the denial, but no less.
 
+Any retaliation against members for their votes will result in administrative action, possibly without warning.
+
+### (iii) Removing problematic administrators
+
+If an administrator consistently acts against these policies andor abuses their power, they may be removed through either of these processes:
+
+1. **Admin Council Decision**
+   - At least 66.6% + 1 of all other administrators must agree to the removal
+   - The decision must be documented with specific citations of policy violations andor power abuses
+   - The removed admin may not be reinstated for at least 1 year
+
+2. **Community Vote of No Confidence**
+   - Any member may challenge a sitting administrator's position by calling for a vote of no confidence if they can demonstrate pattern evidence of policy violations or abuse
+   - The vote to remove an admin must follow these rules:
+	1. The challenging member must first discuss their desire to remove an admin with the existing administrators. If those administrators deny their request to remove an admin, then the challenger may proceed with a vote.
+	2. The challenger must create a poll. That poll must only contain three options: 
+		1. A vote in favor of removing the contested admin,
+		2. a vote in favor of the contested admin remaining,
+		3. and a null option so people with no opinion may see the current results.
+		- The poll must not contain anything else, and the title must be simple an non-deceptive.
+	3. Only votes cast by Kind Politics community members will be counted. To ensure this, the poll that the member runs **must not** be anonymous, and must be a built-in native poll (e.g. a Telegram poll for Kind Politics on Telegram).
+	4. To win the vote, a grand majority must be won (at least 75% + 1 of votes in favor).
+	5. Voting must end 72 hours after it starts. Reasonable leeway will be allowed, but the challenger must do their best to close the poll near this deadline.
+	6. After the grand majority is won, that challenger must return to the existing admins with the results. The existing admins will discuss amongst themselves whether the vote justifies removing the contested admin.
+		- If the existing admins agree that the candidate should be removed, then the contested admin will be stripped of their administrator privileges in Kind Politics and allowed to remain in the group, assuming that admin doesn't violate these policies in a way that would result in a ban
+		- If the admins still choose to allow the contested admin to be removed, the challenger must accept that result. No member may choose to restart this process again until 3 months from the decision, but no less.
+   - If the process results in removal, the administrator may not be reinstated for at least 1 year
+   - Votes of no-confidence may not be called against the same administrator more often than once per quarter-year (3 months)
+
+Any retaliation against members for their votes will result in administrative action, possibly without warning.
+
+### (iv) Compromised admin account
+
+If an admin's account has been compromised, that account's admin privileges will be stripped until/unless the account has been recovered.
 
 
 # II. No one is lesser by birth
@@ -169,3 +207,14 @@ The Constellation of Kyndness’s policies are listed at [https://github.com/Con
 If any of these rules come into conflict, the one which applies strictest administrative action wins.
 
 Admins may also choose how to handle such situations on a case-by-case basis.
+
+
+## (a) Benevolent Dictator For Life
+
+If all else breaks down, the Northstar System (Ky) reserve the right to circumvent any/all of these policies, **in a benevolent way**, if/when that's absolutely necessary in order to ensure a healthy & safe community.
+
+In this way, the Northstar System act as the Benevolent Dictator For Life (BDFL) of Kind Politics, and reserve the right to choose, at their sole discretion, a successor to that title in the event that they can no longer hold such a title.
+
+The Northstar System vow and swear to only enact the power of BDFL when all other actions would be more harmful to the community, and that they will refuse to enact this power otherwise. In all normal circumstances, they vow and swear act as an equal administrator to all other administrators.
+
+Notably, this was always possible by the nature of online communities, by default, treating their initial creator as a BDFL. The Northstar System, having been the initial creator of Kind Politics, was in that position without explicitly calling it out. In this new era, they explicitly acknowledge that these policies are a voluntary binding, and this policy VIII(a) details the rare circumstances in which they might break that binding.
