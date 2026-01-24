@@ -43,17 +43,21 @@ If any community member wishes to become an administrator of Kind Politics, they
 If any community member wishes to become an administrator of Kind Politics, they may petition the community to vote for them. That vote must follow these rules:
 
 1. The candidate must first discuss their desire to become an admin with the existing administrators. If those administrators deny their request to become an admin, then they may proceed with a vote.
-2. The candidate must create a poll. That poll must only contain three options: 
+		- No response within 72 hours may be considered a denial
+2. The candidate must create a poll. That poll must only contain three options:
 	1. A vote in favor of the candidate becoming an admin,
 	2. a vote against the candidate becoming an admin,
 	3. and a null option so people with no opinion may see the current results.
-	- The poll must not contain anything else, and the title must be simple an non-deceptive.
+	- The poll must not contain anything else, and the title must be simple and non-deceptive.
 3. Only votes cast by Kind Politics community members will be counted. To ensure this, the poll that the member runs **must not** be anonymous, and must be a built-in native poll (e.g. a Telegram poll for Kind Politics on Telegram).
-4. To win the vote, a grand majority must be won (at least 75% + 1 of votes in favor).
-5. Voting must end 48 hours after it starts. Reasonable leeway will be allowed, but the candidate must do their best to close the poll near this deadline.
+4. To win the vote, a grand majority must be won (at least 75% + 1 votes in favor).
+5. Voting must end 72 hours after it starts. Reasonable leeway will be allowed, but the candidate must do their best to close the poll near this deadline.
+	- The candidate may choose to engage in campaigning within those 48 hours, so long as that campaigning follows all other policies
+	- If the candidate didn't secure a grand majority, then they is ineligible for adminhood until at least 1 year after the loss
 6. After the grand majority is won, that candidate must return to the existing admins with the results. The existing admins will discuss amongst themselves whether the vote justifies the candidate becoming an admin.
+	- The admins MUST seriously consider the candidacy, since the election resulted in a grand majority of Kind Politics members being in-favor of the candidate's adminhood
 	- If the existing admins agree that the candidate should gain adminhood, then the candidate will be made an administrator of Kind Politics
-	- If the admins still deny the candidate adminhood, the candidate must accept that result. The candidate may choose to restart this process again after waiting 1 year from the denial, but no less.
+	- If the admins still deny the candidate adminhood, the candidate must accept that result. The candidate may choose to restart this process again after waiting at least 1 year after the denial
 
 Any retaliation against members for their votes will result in administrative action, possibly without warning.
 
@@ -67,28 +71,38 @@ If an administrator consistently acts against these policies andor abuses their 
    - The removed admin may not be reinstated for at least 1 year
 
 2. **Community Vote of No Confidence**
-   - Any member may challenge a sitting administrator's position by calling for a vote of no confidence if they can demonstrate pattern evidence of policy violations or abuse
+   - Any member may challenge a sitting administrator's position by calling for a vote of no confidence if they can demonstrate a pattern of evidence of policy violations andor abuse
    - The vote to remove an admin must follow these rules:
-	1. The challenging member must first discuss their desire to remove an admin with the existing administrators. If those administrators deny their request to remove an admin, then the challenger may proceed with a vote.
-	2. The challenger must create a poll. That poll must only contain three options: 
+	1. The challenging member must first discuss with the existing administrators about their desire to remove an admin. If those administrators deny their request to remove an admin, then the challenger may proceed with a vote.
+		- No response within 72 hours may be considered a denial
+	2. The challenger must create a poll. That poll must only contain three options:
 		1. A vote in favor of removing the contested admin,
 		2. a vote in favor of the contested admin remaining,
 		3. and a null option so people with no opinion may see the current results.
-		- The poll must not contain anything else, and the title must be simple an non-deceptive.
+		- The poll must not contain anything else, and the title must be simple and non-deceptive.
 	3. Only votes cast by Kind Politics community members will be counted. To ensure this, the poll that the member runs **must not** be anonymous, and must be a built-in native poll (e.g. a Telegram poll for Kind Politics on Telegram).
-	4. To win the vote, a grand majority must be won (at least 75% + 1 of votes in favor).
+	4. To win the vote, a grand majority must be won (at least 75% + 1 votes in favor of removing the admin).
 	5. Voting must end 72 hours after it starts. Reasonable leeway will be allowed, but the challenger must do their best to close the poll near this deadline.
+		- The candidate may choose to engage in campaigning within those 72 hours, so long as that campaigning follows all other policies
+		- If the candidate didn't secure a grand majority, then the vote of no-confidence fails and the administrator remains
 	6. After the grand majority is won, that challenger must return to the existing admins with the results. The existing admins will discuss amongst themselves whether the vote justifies removing the contested admin.
+		- The admins MUST seriously consider the removal, since the election resulted in a grand majority of Kind Politics members being in-favor of the contested admin's removal
 		- If the existing admins agree that the candidate should be removed, then the contested admin will be stripped of their administrator privileges in Kind Politics and allowed to remain in the group, assuming that admin doesn't violate these policies in a way that would result in a ban
-		- If the admins still choose to allow the contested admin to be removed, the challenger must accept that result. No member may choose to restart this process again until 3 months from the decision, but no less.
-   - If the process results in removal, the administrator may not be reinstated for at least 1 year
-   - Votes of no-confidence may not be called against the same administrator more often than once per quarter-year (3 months)
+		- If the admins still choose to allow the contested admin to be removed, the challenger must accept that result. No member may choose to restart this process again until at least 3 months after the decision
+   - If the process results in removal, the administrator MUST NOT be reinstated for at least 1 year
+   - Votes of no-confidence MUST NOT be called against the same administrator more often than once per quarter-year (3 months)
 
 Any retaliation against members for their votes will result in administrative action, possibly without warning.
 
 ### (iv) Compromised admin account
 
 If an admin's account has been compromised, that account's admin privileges will be stripped until/unless the account has been recovered.
+
+### (v) Stepping down
+
+Of course, an admin may voluntarily step down at any time if they so chooses.
+
+An admin who voluntarily abdicates their own adminhood, MUST NOT be reinstated as an administrator for at least 1 year.
 
 
 # II. No one is lesser by birth
