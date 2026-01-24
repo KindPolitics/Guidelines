@@ -44,7 +44,7 @@ If any community member wishes to become an administrator of Kind Politics, they
 
 1. The candidate must first discuss their desire to become an admin with the existing administrators. If those administrators deny their request to become an admin, then they may proceed with a vote.
 		- No response within 72 hours may be considered a denial
-2. The candidate must create a poll. That poll must only contain three options:
+2. The candidate must create a poll. That poll must only contain three options: 
 	1. A vote in favor of the candidate becoming an admin,
 	2. a vote against the candidate becoming an admin,
 	3. and a null option so people with no opinion may see the current results.
@@ -75,7 +75,7 @@ If an administrator consistently acts against these policies andor abuses their 
    - The vote to remove an admin must follow these rules:
 	1. The challenging member must first discuss with the existing administrators about their desire to remove an admin. If those administrators deny their request to remove an admin, then the challenger may proceed with a vote.
 		- No response within 72 hours may be considered a denial
-	2. The challenger must create a poll. That poll must only contain three options:
+	2. The challenger must create a poll. That poll must only contain three options: 
 		1. A vote in favor of removing the contested admin,
 		2. a vote in favor of the contested admin remaining,
 		3. and a null option so people with no opinion may see the current results.
