@@ -52,7 +52,7 @@ If any community member wishes to become an administrator of Kind Politics, they
 3. Only votes cast by Kind Politics community members will be counted. To ensure this, the poll that the member runs **must not** be anonymous, and must be a built-in native poll (e.g. a Telegram poll for Kind Politics on Telegram).
 4. To win the vote, a grand majority must be won (at least 75% + 1 votes in favor).
 5. Voting must end 72 hours after it starts. Reasonable leeway will be allowed, but the candidate must do their best to close the poll near this deadline.
-	- The candidate may choose to engage in campaigning within those 48 hours, so long as that campaigning follows all other policies
+	- The candidate may choose to engage in campaigning within those 72 hours, so long as that campaigning follows all other policies
 	- If the candidate didn't secure a grand majority, then they is ineligible for adminhood until at least 1 year after the loss
 6. After the grand majority is won, that candidate must return to the existing admins with the results. The existing admins will discuss amongst themselves whether the vote justifies the candidate becoming an admin.
 	- The admins MUST seriously consider the candidacy, since the election resulted in a grand majority of Kind Politics members being in-favor of the candidate's adminhood
