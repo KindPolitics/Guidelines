@@ -1,14 +1,10 @@
 # Policies
 
-> Revision 2025-03-16
-
-[The first set of guidelines](./Guidelines%20–%20OLD,%20NO%20LONGER%20IN%20EFFECT.md) turned out to be a failed experiment, so We’re going back to the drawing board and proposing a new set of policies designed to address issues found in the past 4 years.
-
-The greatest shortcoming of the original guidelines is that they did not allow administrators to ban folks for many reasons that should rightfully result in a ban. In fact, they only allowed bans for bullying, spamming, or scamming. 
-
-This new set of policies aims to address that shortcoming by allowing bans for many more reasons. To be explicit: **These policies aim to guarantee that harmful views like fascism aren't advocated for, that their rhetoric isn't spread, and that proponents of them aren't allowed.**
+> Revision 2026-01-09
 
 If you'd like to propose changes to these policies, simply [edit this file](https://github.com/KindPolitics/Policies/edit/accepted/README.md) on a new branch (named like `proposal/My-radical-changes`) and then create a new [pull request](https://docs.github.com/articles/using-pull-requests) targeting the `accepted` branch. Don't forget to tell the community about your proposal!
+
+You may also view the history of all accepted changes to these policies here: https://github.com/KindPolitics/Policies/commits/accepted/README.md
 
 
 
@@ -105,7 +101,7 @@ Kind Politics does not allow racism, sexism, transphobia, homophobia, ableism, s
 
 If you’re gonna be here, you must genuinely discuss.
 
-You can’t just be there to spread hateful beliefs, you have to actually engage. Taunting, teasing, bringing unfounded claims, rejecting discussion, or otherwise trying to skirt these policies andor avoid genuine discussion, will result in a ban.
+You can’t just be here to spread your beliefs; you have to actually engage. Taunting, teasing, bringing unfounded claims, rejecting discussion, or otherwise trying to skirt these policies andor avoid genuine discussion, will result in administrative action.
 
 Part of having genuine & good-faith discussions like these is challenging one’s own positions.
 
@@ -113,23 +109,23 @@ If you’ve proven you’re unwilling to have your positions challenged, adminis
 
 # IV. Rhetoric
 
-This is a place for nuanced discussion, because rhetoric most-often relies on oversimplifying complex issues and promising easy solutions which can never work.
+This is a place for nuanced discussion, because the harm in rhetoric most-often comes from oversimplifying complex issues and promising easy solutions which, in practice, can't actually work.
 
 Breaking down topics and critically evaluating them is encouraged. 
 
-Simplifying topics and ignoring nuanced takes is strongly discouraged, and may result in administrative action.
+Simplifying topics and ignoring nuance is strongly discouraged, and may result in administrative action.
 
 
 ## (a) Virtue Signaling
 
-Virtue signaling isn’t allowed. It doesn’t matter if that’s right-wing, left-wing, or wildly out there, virtue signaling discourages discussion and encourages surface-level thought, when the point of Kind Politics is to get at & discuss the root of issues.
+Virtue signaling isn’t allowed. It doesn’t matter if that’s right-wing, left-wing, or wildly out there; virtue signaling discourages discussion and encourages surface-level thought, when the point of Kind Politics is to get at & discuss the root of issues.
 
 This document defines virtue signaling as:
 
 > the act of expressing opinions or taking actions primarily to demonstrate one’s moral superiority or alignment with a particular group, instead of engaging in genuine dialog or critical discussion.
 
 Because virtue signaling can be very ingrained and easy to fall into, admins will issue reasonable warnings to stop before taking more severe administrative actions.
-However, explicit refusal to stop virtue signaling will result in immediate administrative action, possibly without warnings.
+However, explicit refusal to stop virtue signaling will result in administrative action, possibly without warnings.
 
 
 
